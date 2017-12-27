@@ -3,6 +3,7 @@
 ![](/assets/2-1-8.png)
 1.固定结构型
 固定结构型的课件一般以框面（Frame）为单位来组织教学内容，若干框面组成一个教学单元，这是一种最早期，也是最常见的结构类型，教学控制方法即教学内容按照预先设置好的结构固定不变。其特点是结构简单、自定步调、及时反馈，但学生的行为完全在预先设计的流程控制下进行，难以完全适合学生的不同要求和情况的变化。
+<iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=t0025cuffmy&tiny=0&auto=0" allowfullscreen></iframe>
 
 
 <iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=b0502ls80p4&tiny=0&auto=0" allowfullscreen></iframe>
