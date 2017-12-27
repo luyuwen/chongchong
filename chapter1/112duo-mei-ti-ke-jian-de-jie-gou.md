@@ -10,3 +10,4 @@
 智能型课件是依据人工智能（Artificial Intelligence）原理，把人工智能技术应用于计算机辅助教学（CAI），以提高课件的智能程度，即产生了智能计算机辅助教学（Intelligent Computer Assisted Instruction，ICAI）。智能计算机辅助教学系统主要在知识表示、推理方法和自然语言理解三个方面应用人工智能技术。“知识表示用来建立课件的知识库，表示学科专业知识和教学策略知识；推理方法表现为一些规则，推理机制运用这些规则和知识库的知识进行推理，以解答学生的问题，评价学生的作业；自然语言理解用来改善人机界面，使学生可以用自然语言与计算机对话。”智能型教学系统实际上是一个基于知识的面向教学的专家系统（Knowledge based expert system），主要有专家模块、学生模块、教师模块三大部分。
 <iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=t0025cuffmy&tiny=0&auto=0" allowfullscreen></iframe>
 
+
